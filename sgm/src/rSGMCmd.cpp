@@ -1,6 +1,6 @@
 // Copyright © Robert Spangenberg, 2014.
 // See license.txt for more details
-
+// This is an example for Git
 #include "iostream"
 
 #include <smmintrin.h> // intrinsics
