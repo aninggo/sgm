@@ -1,0 +1,3 @@
+/home/lovejt/桌面/uav/cmake_build/CMakeFiles/rebuild_cache.dir
+/home/lovejt/桌面/uav/cmake_build/CMakeFiles/edit_cache.dir
+/home/lovejt/桌面/uav/cmake_build/CMakeFiles/TULIPP_SGM_v1-0.dir

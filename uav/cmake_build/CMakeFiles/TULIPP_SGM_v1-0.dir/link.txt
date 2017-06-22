@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -std=c++11 -fopenmp   CMakeFiles/TULIPP_SGM_v1-0.dir/src/main.cpp.o CMakeFiles/TULIPP_SGM_v1-0.dir/src/csgm.cpp.o  -o ../bin/TULIPP_SGM_v1-0 -rdynamic /usr/local/lib/libopencv_imgcodecs.so.3.2.0 /usr/local/lib/libopencv_imgproc.so.3.2.0 /usr/local/lib/libopencv_core.so.3.2.0 -Wl,-rpath,/usr/local/lib 
